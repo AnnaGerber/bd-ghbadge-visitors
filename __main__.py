@@ -4,7 +4,7 @@ from collections import Counter, defaultdict
 from datetime import datetime, timedelta
 import GeoIP
 
-set_theme('eighties')
+set_theme('arctic')
 
 TIMELINE_DAYS = 30 
 TFORMAT = '%Y-%m-%d'
